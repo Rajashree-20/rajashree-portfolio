@@ -1,0 +1,6 @@
+PERSONAL PROFILE WEBSITE — LIVE LINK
+
+Paste your published website URL here after deployment.
+
+Example:
+https://yourusername.github.io/personal-profile-website/
